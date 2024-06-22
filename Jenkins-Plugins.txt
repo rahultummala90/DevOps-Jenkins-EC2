@@ -1,0 +1,4 @@
+Docker
+Kubernetes
+Kubernetes CLI
+ECR
